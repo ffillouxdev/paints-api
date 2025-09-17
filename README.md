@@ -1,4 +1,4 @@
-Ce projet met à disposition une API REST simulée pour accéder à des informations sur des peintures, en utilisant [my-json-server](https://my-json-server.typicode.com/ffillouxdev/paints-api/paintings/).
+Ce projet met à disposition une API REST simulée pour accéder à des informations sur des peintures, en utilisant [my-json-server](https://my-json-server.typicode.com/).
 
 ## Fonctionnalités
 
@@ -30,7 +30,7 @@ Ce projet met à disposition une API REST simulée pour accéder à des informat
 
 Exemple d'endpoint :
 ```
-GET https://my-json-server.typicode.com/<votre-utilisateur>/<votre-repo>/paintings
+GET https://my-json-server.typicode.com/ffillouxdev/paints-api/paintings/
 ```
 
 ## Ressources
