@@ -1,0 +1,39 @@
+{
+  "paintings": [
+    {
+      "id": 1,
+      "paint_title": "The Course of Empire: Destruction",
+      "artist": "Thomas Cole",
+      "theme": "roman-empire",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/course_of_empire_destruction.jpg"
+    },
+    {
+      "id": 2,
+      "paint_title": "The Romans of the Decadence",
+      "artist": "Thomas Couture",
+      "theme": "roman-empire",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/romans_of_the_decadence.jpg"
+    },
+    {
+      "id": 3,
+      "paint_title": "Pollice Verso",
+      "artist": "Jean-Léon Gérôme",
+      "theme": "roman-empire",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/pollice_verso.jpg"
+    },
+    {
+      "id": 4,
+      "paint_title": "The Triumph of Titus and Vespasian",
+      "artist": "Sir Lawrence Alma-Tadema",
+      "theme": "roman-empire",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/triumph_of_titus.jpg"
+    },
+    {
+      "id": 5,
+      "paint_title": "The Fire of Rome",
+      "artist": "Hubert Robert",
+      "theme": "roman-empire",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/fire_of_rome.jpg"
+    }
+  ]
+}
