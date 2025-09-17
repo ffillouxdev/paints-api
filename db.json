@@ -13,28 +13,28 @@
       "paint_title": "The Romans of the Decadence",
       "artist": "Thomas Couture",
       "theme": "roman-empire",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/horizontal/romans_of_the_decadence.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/romans_of_the_decadence.jpg"
     },
     {
       "id": 3,
       "paint_title": "Pollice Verso",
       "artist": "Jean-Léon Gérôme",
       "theme": "roman-empire",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/horizontal/pollice_verso.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/pollice_verso.jpg"
     },
     {
       "id": 4,
       "paint_title": "The Triumph of Titus and Vespasian",
       "artist": "Sir Lawrence Alma-Tadema",
       "theme": "roman-empire",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/horizontal/triumph_of_titus.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
     },
     {
       "id": 5,
       "paint_title": "The Fire of Rome",
       "artist": "Hubert Robert",
       "theme": "roman-empire",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/peintures-api/main/assets/fire_of_rome.jpg|https://eclecticlight.co/2020/10/13/a-history-of-rome-in-paintings-10-war-with-carthage/"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/fire_of_rome.jpg|https://eclecticlight.co/2020/10/13/a-history-of-rome-in-paintings-10-war-with-carthage/"
       
     }
   ]
