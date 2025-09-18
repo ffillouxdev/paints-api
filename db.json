@@ -5,37 +5,80 @@
       "paint_title": "The Course of Empire: Destruction",
       "artist": "Thomas Cole",
       "year": 1836,
-      "theme": "roman-empire",
+      "theme": "roman-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/fall_of_the_empire.jpeg"
     },
     {
       "id": 2,
       "paint_title": "The Romans of the Decadence",
       "artist": "Thomas Couture",
-      "theme": "roman-empire",
+      "year": 1847,
+      "theme": "roman-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/romans_of_the_decadence.jpg"
     },
     {
       "id": 3,
       "paint_title": "Pollice Verso",
       "artist": "Jean-Léon Gérôme",
-      "theme": "roman-empire",
+      "year": 1872,
+      "theme": "roman-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/pollice_verso.jpg"
     },
     {
       "id": 4,
       "paint_title": "The Triumph of Titus and Vespasian",
       "artist": "Sir Lawrence Alma-Tadema",
-      "theme": "roman-empire",
+      "year": 1885,
+      "theme": "roman-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
     },
     {
       "id": 5,
       "paint_title": "The Fire of Rome",
       "artist": "Hubert Robert",
-      "theme": "roman-empire",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/fire_of_rome.jpg"
-      
+      "year": 1785,
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg"
+    },
+    {
+      "id": 6,
+      "paint_title": "Cleopatra before Caesar",
+      "artist": "Jean-Léon Gérôme",
+      "year": 1866,
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cleopatra_and_Caesar_%28Jean-L%C3%A9on_G%C3%A9r%C3%B4me%29.jpg"
+    },
+    {
+      "id": 7,
+      "paint_title": "The Death of Caesar",
+      "artist": "Vincenzo Camuccini",
+      "year": 1798,
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/La_mort_de_C%C3%A9sar_-_Vincenzo_Camuccini.jpg"
+    },
+    {
+      "id": 8,
+      "paint_title": "The Baths of Caracalla",
+      "artist": "Lawrence Alma-Tadema",
+      "year": 1899,
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sir_Lawrence_Alma-Tadema_-_The_Tepidarium.jpg"
+    },
+    {
+      "id": 9,
+      "paint_title": "The Last Day of Pompeii",
+      "artist": "Karl Bryullov",
+      "year": 1833,
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg"
+    },
+    {
+      "id": 10,
+      "paint_title": "The Triumph of Caesar",
+      "artist": "Andrea Mantegna",
+      "year": "1484-1492",
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mantegna%2C_trionfo_di_cesare%2C_04.jpg"
     }
   ]
 }
