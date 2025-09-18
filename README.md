@@ -38,3 +38,5 @@ GET https://my-json-server.typicode.com/ffillouxdev/paints-api/paintings/
 - [my-json-server Documentation](https://github.com/typicode/json-server)
 - [Typicode/json-server](https://github.com/typicode/json-server)
 
+
+Date de dernière mise à jour : 18 septembre 14:03

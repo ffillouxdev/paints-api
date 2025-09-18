@@ -6,7 +6,7 @@
       "artist": "Thomas Cole",
       "year": 1836,
       "theme": "roman-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/fall_of_the_empire.jpeg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "artist": "Thomas Couture",
       "year": 1847,
       "theme": "roman-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/romans_of_the_decadence.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Thomas_Couture_-_Romans_during_the_Decadence_-_Google_Art_Project.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "artist": "Jean-Léon Gérôme",
       "year": 1872,
       "theme": "roman-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/pollice_verso.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jean-Leon_Gerome_Pollice_Verso.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "artist": "Sir Lawrence Alma-Tadema",
       "year": 1885,
       "theme": "roman-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Romano_-_Triumph_of_Titus_and_Vespasian_02.jpg"
     },
     {
       "id": 5,
@@ -79,6 +79,16 @@
       "year": "1484-1492",
       "theme": "roman-history",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mantegna%2C_trionfo_di_cesare%2C_04.jpg"
-    }
+    },
+    {
+      "id": 11,
+      "paint_title": "The Triumph of Titus: The Flavians",
+      "artist": "Sir Lawrence Alma-Tadema",
+      "year": 1885,
+      "theme": "roman-history",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sir_Lawrence_Alma-Tadema%2C_RA%2C_OM_-_The_Triumph_of_Titus_-_The_Flavians_-_Walters_3731.jpg"
+    }, 
+    
+
   ]
 }
