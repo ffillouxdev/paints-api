@@ -167,6 +167,78 @@
       "year": 1844,
       "theme": "napoleon-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon_at_the_battle_of_rivoli.jpg"
+    },
+    {
+      "id": 22,
+      "paint_title": "General Bonaparte surrounded by members of the Council of Five Hundred during the Coup of 18 Brumaire",
+      "artist": "François Bouchot",
+      "year": 1799,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/general_bonaparte_coup_of_18_brumaire.jpg"
+    },
+    {
+      "id": 23,
+      "paint_title": "Bonaparte, First Consul",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1804,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/bonaparte_first_consul.jpg"
+    },
+    {
+      "id": 24,
+      "paint_title": "Napoleon in his coronation",
+      "artist": "François Gérard",
+      "year": 1805,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/napoleon_in_his_coronation.jpg"
+    },
+    {
+      "id": 25,
+      "paint_title": "Napoleon at the Battle of Austerlitz",
+      "artist": "François Gérard",
+      "year": 1805,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon_at_the_battle_of_austerlitz.jpg"
+    },
+    {
+      "id": 26,
+      "paint_title": "Napoleon reviewing the Imperial Guard before the Battle of Jena",
+      "artist": "Horace Vernet",
+      "year": 1836,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon_reviewing_the_imperial_guard_before_the_battle_of_jena.jpg"
+    },
+    {
+      "id": 27,
+      "paint_title": "The Battle of Wagram",
+      "artist": "Horace Vernet",
+      "year": 1836,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_battle_of_wagram.jpg"
+    },
+    {
+      "id": 28,
+      "paint_title": "Napoleon's withdrawal from Russia",
+      "artist": "Adolph Northen",
+      "year" : 1851,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon's_withdrawal_from_russia.jpg"
+    },
+    {
+      "id": 29,
+      "paint_title": "Napoleon after his abdication in Fontainebleau",
+      "artist": "Paul Delaroche",
+      "year": 1845,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/napoleon_after_his_abdication_in_fontainebleau.jpg"
+    },
+    {
+      "id": 30,
+      "paint_title": "Napoleon's farewell to his Imperial Guard",
+      "artist": "Antoine-Alphonse Montfort",
+      "year": 1850,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon's_farewell_to_his_imperial_guard.jpg"
     }
   ]
 }
