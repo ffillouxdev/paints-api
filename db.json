@@ -26,11 +26,11 @@
     },
     {
       "id": 4,
-      "paint_title": "The Triumph of Titus and Vespasian",
-      "artist": "Sir Lawrence Alma-Tadema",
-      "year": 1885,
-      "theme": "roman-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
+      "paint_title": "Daniel in the Lions' Den",
+      "artist": "Briton Rivière",
+      "year": 1872,
+      "theme": "biblical-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/daniel_in_the_lions.jpg"
     },
     {
       "id": 5,
@@ -87,6 +87,54 @@
       "year": 1885,
       "theme": "roman-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/triumph_titus_flavians.jpg"
+    },
+    {
+      "id": 12,
+      "paint_title": "The Triumph of Titus and Vespasian",
+      "artist": "Sir Lawrence Alma-Tadema",
+      "year": 1885,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
+    },
+    {
+      "id": 13,
+      "paint_title": "Daniel's Answer to the King",
+      "artist": "Briton Rivière",
+      "year": 1890,
+      "theme": "biblical-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/daniel's_answer_to_the_king.jpg"
+    },
+    {
+      "id": 14,
+      "paint_title": "Bonaparte before the Sphinx",
+      "artist": "Jean-Léon Gérôme",
+      "year": 1886,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/bonaparte_before_the_sphinx.jpg"
+    },
+    {
+      "id": 15,
+      "paint_title": "Napoleon and his General Staff in Egypt",
+      "artist": "Jean-Léon Gérôme",
+      "year": 1867,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/naopolean_and_his_general_staff_in_egypt.jpg"
+    },
+    {
+      "id": 16,
+      "paint_title": "Napoleon in Egypt",
+      "artist": "Jean-Léon Gérôme",
+      "year": 1863,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/napoleon_in_egypt.jpg"
+    },
+    {
+      "id": 17,
+      "paint_title": "Emperor Napoleon in His Study at the Tuileries",
+      "artist": "Jacques-Louis David",
+      "year": 1812,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/emperor_napoleon_in_his_study_at_the_tuileries.jpg"
     }
   ]
 }
