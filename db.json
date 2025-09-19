@@ -239,6 +239,70 @@
       "year": 1850,
       "theme": "napoleon-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon's_farewell_to_his_imperial_guard.jpg"
+    },
+    {
+      "id": 31,
+      "paint_title": "Napoleon's Return from Elba",
+      "artist": "Charles de Steuben",
+      "year": 1818,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon's_return_from_elba.jpg"
+    },
+    {
+      "id": 32,
+      "paint_title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "year": 1787,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_death_of_socrates.jpg"
+    },
+    {
+      "id": 33,
+      "paint_title": "Timon of Athens",
+      "artist": "Nathaniel Dance-Holland",
+      "year": 1767,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/timon_of_athens.jpg"
+    },
+    {
+      "id": 34,
+      "paint_title": "The School of Athens",
+      "artist": "Raphael",
+      "year": 1509.1511,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_school_of_athens.jpg"
+    },
+    {
+      "id": 35,
+      "paint_title": "Diogenes 1",
+      "artist": "John William Waterhouse",
+      "year": 1881,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_1.jpg"
+    },
+    {
+      "id": 36,
+      "paint_title": "Diogenes 2",
+      "artist": "Jules Bastien-Lepage",
+      "year": 1872,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_2.jpg"
+    },
+    {
+      "id": 37,
+      "paint_title": "Diogenes 3",
+      "artist": "Jean-Léon Gérôme",
+      "year": 1860,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_3.jpg"
+    },
+    {
+      "id": 38,
+      "paint_title": "Saint Paul delivering the Areopagus Sermon in Athens",
+      "artist": "Raphael",
+      "year": 1515,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/saint_paul_delivering_the_areopagus_sermon_in_athens.jpg"
     }
   ]
 }
