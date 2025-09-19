@@ -135,6 +135,38 @@
       "year": 1812,
       "theme": "napoleon-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/emperor_napoleon_in_his_study_at_the_tuileries.jpg"
+    },
+    {
+      "id": 18,
+      "paint_title": "Napoleon Crossing the Alps",
+      "artist": "Jacques-Louis David",
+      "year": 1801,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/napoleon_crossing_the_alps.jpg"
+    },
+    {
+      "id": 19,
+      "paint_title": "The Coronation of Napoleon",
+      "artist": "Jacques-Louis David",
+      "year": 1805.1807,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_coronation_of_napoleon.jpg"
+    },
+    {
+      "id": 20,
+      "paint_title": "Bonaparte at the Pont d'Arcole",
+      "artist": "Antoine-Jean Gros",
+      "year": 1796,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/bonaparte_at_the_pont_d'arcole.jpg"
+    },
+    {
+      "id": 21,
+      "paint_title": "Napoleon at the Battle of Rivoli",
+      "artist": "Henri Félix Emmanuel Philippoteaux",
+      "year": 1844,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/napoleon_at_the_battle_of_rivoli.jpg"
     }
   ]
 }
