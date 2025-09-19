@@ -6,7 +6,7 @@
       "artist": "Thomas Cole",
       "year": 1836,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_course_of_empire_destruction.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "artist": "Thomas Couture",
       "year": 1847,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Thomas_Couture_-_Romans_during_the_Decadence_-_Google_Art_Project.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/romans_of_the_decadence.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "artist": "Jean-Léon Gérôme",
       "year": 1872,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jean-Leon_Gerome_Pollice_Verso.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/pollice_verso.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "artist": "Sir Lawrence Alma-Tadema",
       "year": 1885,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Romano_-_Triumph_of_Titus_and_Vespasian_02.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "artist": "Hubert Robert",
       "year": 1785,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/fire_of_rome.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "artist": "Jean-Léon Gérôme",
       "year": 1866,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cleopatra_and_Caesar_%28Jean-L%C3%A9on_G%C3%A9r%C3%B4me%29.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/cleopatra_before_caesar.jpg"
     },
     {
       "id": 7,
@@ -54,15 +54,15 @@
       "artist": "Vincenzo Camuccini",
       "year": 1798,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/La_mort_de_C%C3%A9sar_-_Vincenzo_Camuccini.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_death_of_caesar.jpg"
     },
     {
       "id": 8,
       "paint_title": "The Baths of Caracalla",
-      "artist": "Lawrence Alma-Tadema",
-      "year": 1899,
+      "artist": "Virgilio Mattoni de la Fuente",
+      "year": 1881,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sir_Lawrence_Alma-Tadema_-_The_Tepidarium.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/baths_of_caracalla.jpg"
     },
     {
       "id": 9,
@@ -70,15 +70,15 @@
       "artist": "Karl Bryullov",
       "year": 1833,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/last_day_of_pompeii.jpg"
     },
     {
       "id": 10,
-      "paint_title": "The Triumph of Caesar",
-      "artist": "Andrea Mantegna",
-      "year": "1484-1492",
+      "paint_title": "Vercingetorix Surrenders to Caesar",
+      "artist": "Lionel Royer",
+      "year": 1899,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mantegna%2C_trionfo_di_cesare%2C_04.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/alesia_vercingetorix_jules_cesar.jpg"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "artist": "Sir Lawrence Alma-Tadema",
       "year": 1885,
       "theme": "roman-history",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sir_Lawrence_Alma-Tadema%2C_RA%2C_OM_-_The_Triumph_of_Titus_-_The_Flavians_-_Walters_3731.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/triumph_titus_flavians.jpg"
     }
   ]
 }
