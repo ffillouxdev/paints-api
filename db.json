@@ -90,11 +90,11 @@
     },
     {
       "id": 12,
-      "paint_title": "The Triumph of Titus and Vespasian",
-      "artist": "Sir Lawrence Alma-Tadema",
-      "year": 1885,
+      "paint_title": "Oath of the Horatii",
+      "artist": "Jacques-Louis David",
+      "year": 1784,
       "theme": "roman-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/triumph_of_titus.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/oath_of_the_horatii.jpg"
     },
     {
       "id": 13,
