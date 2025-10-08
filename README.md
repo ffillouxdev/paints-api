@@ -27,6 +27,7 @@ Ce projet met à disposition une API REST simulée pour accéder à des informat
 
 1. Forkez ce dépôt et ajoutez votre fichier `db.json` avec la structure ci-dessus.
 2. Rendez-vous sur [my-json-server.typicode.com](https://my-json-server.typicode.com/) et utilisez l'URL de votre dépôt pour accéder à l'API.
+3. `npm install` et `npx json-server --watch db.json --port 3000`
 
 Exemple d'endpoint :
 ```
