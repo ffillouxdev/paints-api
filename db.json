@@ -250,12 +250,12 @@
     },
     {
       "id": 32,
-      "paint_title": "The Death of Socrates",
-      "artist": "Jacques-Louis David",
-      "year": 1787,
+      "paint_title": "The Monument to Philopappos, Athens",
+      "artist": "Giovanni Battista Lusieri",
+      "year": 1804,
       "theme": "greek-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_death_of_socrates.jpg"
-    },
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/the_monument_to_philopappos_athens.jpg"
+    }, 
     {
       "id": 33,
       "paint_title": "Timon of Athens",
@@ -377,11 +377,11 @@
     },
     {
       "id": 47,
-      "paint_title": "The Monument to Philopappos, Athens",
-      "artist": "Giovanni Battista Lusieri",
-      "year": 1804,
+      "paint_title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "year": 1787,
       "theme": "greek-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/the_monument_to_philopappos_athens.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_death_of_socrates.jpg"
     }
   ]
 }
