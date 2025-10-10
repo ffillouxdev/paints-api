@@ -303,6 +303,62 @@
       "year": 1515,
       "theme": "greek-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/saint_paul_delivering_the_areopagus_sermon_in_athens.jpg"
+    },
+    {
+      "id": 39,
+      "paint_title": "Landscape of Ancient Greece",
+      "artist": "Pierre Henri de Valenciennes",
+      "year": 1786,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/landscape_of_ancient_greece.jpg"
+    },
+    {
+      "id": 40,
+      "paint_title": "Cicero Discovering the Tomb of Archimedes",
+      "artist": "Pierre Henri de Valenciennes",
+      "year": 1787,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/cicero_discovering_the_tomb_of_archimedes.jpg"
+    },
+    {
+      "id": 41,
+      "paint_title": "Landscape with Historical Figure",
+      "artist": "Pierre Henri de Valenciennes",
+      "year": 1785,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/landscape_with_historical_figure.jpg"
+    },
+    {
+      "id": 40,
+      "paint_title": "The Finding of Moses",
+      "artist": "Lawrence Alma-Tadema",
+      "year": 1904,
+      "theme": "egypt-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_finding_of_moses.jpg"
+    },
+    {
+      "id": 42,
+      "paint_title": "Roman Capriccio The Pantheon and Other Monuments",
+      "artist": "Giovanni Paolo Panini",
+      "year": 1735,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/roman_capriccio_the_pantheon_and_other_monuments.jpg"
+    },
+    {
+      "id": 43,
+      "paint_title": "Digital Art Style Illustration River Nature",
+      "artist": "Freepik IA",
+      "year": 2024,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/digital_art_style_illustration_river_nature.jpg"
+    }, 
+    {
+      "id": 44,
+      "paint_title": "The Parthenon",
+      "artist": "Ippolito Caffi",
+      "year": 1863,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/ippolito_caffi_the_partenon.jpg"
     }
   ]
 }
