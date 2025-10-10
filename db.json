@@ -477,7 +477,7 @@
       "artist": "inconnu",
       "year": 1890,
       "theme": "french-medieval-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/Jeanne_darc_death.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/jeanne_darc_death_at_the_stake.jpg"
     },
     {
       "id": 59,
@@ -534,8 +534,6 @@
       "year": 1861,
       "theme": "french-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/coronation_of_charlemagne.jpg"
-      
-
     }
   ]
 }
