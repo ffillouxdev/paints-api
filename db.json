@@ -277,7 +277,7 @@
       "paint_title": "Diogenes 1",
       "artist": "John William Waterhouse",
       "year": 1881,
-      "theme": "greek-history",
+      "theme": "greek-history-diogenes",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_1.jpg"
     },
     {
@@ -285,7 +285,7 @@
       "paint_title": "Diogenes 2",
       "artist": "Jules Bastien-Lepage",
       "year": 1872,
-      "theme": "greek-history",
+      "theme": "greek-history-diogenes",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_2.jpg"
     },
     {
@@ -293,7 +293,7 @@
       "paint_title": "Diogenes 3",
       "artist": "Jean-Léon Gérôme",
       "year": 1860,
-      "theme": "greek-history",
+      "theme": "greek-history-diogenes",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_3.jpg"
     },
     {
