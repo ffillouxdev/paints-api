@@ -393,11 +393,11 @@
     },
     {
       "id": 49, 
-      "paint_title": "UK Propaganda Poster in 1940",
+      "paint_title": "Home Defence Battalion poster",
       "artist": "ww2 picture",
       "year": 1940,
       "theme": "ww2-history-england",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/uk_propaganda_poster_in_1940.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/home_defence_battalion.jpg"
     },
     {
       "id": 50,
@@ -425,11 +425,11 @@
     },
     {
       "id": 53,
-      "paint_title": "Spitfire Mk I of 602 Squadron flown by P/O Osgood Hanbury, Westhampnett, September 1940",
+      "paint_title": "A Grã-Bretanha, Defensora da Liberdade - British World War II poster in Portuguese",
       "artist": "ww2 picture",
       "year": 1940,
       "theme": "ww2-history-england",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/spitfire_mk.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/A_Grã-Bretanha,_Defensora_da_Liberdade_-_British_World_War_II_poster_in_Portuguese.jpg"
     },
     {
       "id": 54,
@@ -437,7 +437,7 @@
       "artist": "ww2 picture",
       "year": 1941,
       "theme": "ww2-history-england",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/valentine_tank_Mk3_desert.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/valentine_tank_Mk3_desert.jpg"
     },
     {
       "id":  54,
