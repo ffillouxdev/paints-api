@@ -321,11 +321,11 @@
     },
     {
       "id": 41,
-      "paint_title": "Landscape with Historical Figure",
-      "artist": "Pierre Henri de Valenciennes",
-      "year": 1785,
+      "paint_title": "Aspasia among the Philosophers of Greece",
+      "artist": "Michel II Corneille",
+      "year":	1670,
       "theme": "greek-history",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/landscape_with_historical_figure.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/aspasie_au_milieu_des_philosophes_de_la_grèce.jpg"
     },
     {
       "id": 40,
