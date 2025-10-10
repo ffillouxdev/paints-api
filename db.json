@@ -282,11 +282,10 @@
     },
     {
       "id": 36,
-      "paint_title": "Diogenes 2",
-      "artist": "Jules Bastien-Lepage",
-      "year": 1872,
+      "paint_title": "Alexander the Great and Diogenes",
+      "year" :  1770,
       "theme": "greek-history-diogenes",
-      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/diogenes_2.jpg"
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/alexander_the_great_and_diogenes.jpg"
     },
     {
       "id": 37,
@@ -359,6 +358,30 @@
       "year": 1863,
       "theme": "greek-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/ippolito_caffi_the_partenon.jpg"
+    },
+    {
+      "id": 45,
+      "paint_title": "Ruins of a Doric Temple",
+      "artist": "Hubert Robert",
+      "year": 1783,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/ruins_of_a_doric_temple.jpg"
+    },
+    {
+      "id": 46,
+      "paint_title": "Port of Ripetta",
+      "artist": "Hubert Robert",
+      "year": 1767,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/port_of_ripetta.jpeg"
+    },
+    {
+      "id": 47,
+      "paint_title": "The Monument to Philopappos, Athens",
+      "artist": "Giovanni Battista Lusieri",
+      "year": 1804,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/the_monument_to_philopappos_athens.jpg"
     }
   ]
 }
