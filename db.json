@@ -385,6 +385,22 @@
     },
     {
       "id": 48,
+      "paint_title": "Never was so much owed by so many to so few",
+      "artist": "ww2 picture",
+      "year": 1940,
+      "theme": "ww2-history-england",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/Never_was_so_much_owed_by_so_many_to_so_few.jpg"
+    },
+    {
+      "id": 49, 
+      "paint_title": "UK Propaganda Poster in 1940",
+      "artist": "ww2 picture",
+      "year": 1940,
+      "theme": "ww2-history-england",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/uk_propaganda_poster_in_1940.jpg"
+    },
+    {
+      "id": 50,
       "paint_title": "Back Them Up",
       "artist": "ww2 picture",
       "year": 1939,
@@ -392,7 +408,7 @@
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/back_them_up.jpg"
     },
     {
-      "id": 49,
+      "id": 51,
       "paint_title": "British troops during the Namsos Campaign",
       "artist": "ww2 picture",
       "year": 1939,
@@ -400,7 +416,7 @@
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/british_troops_during_the_namsos_campaign.jpg"
     },
     {
-      "id": 50,
+      "id": 52,
       "paint_title": "British troops line up on the beach at Dunkirk to await evacuation, 26–29 May 1940.",
       "artist": "ww2 picture",
       "year": 1940,
@@ -408,7 +424,7 @@
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/british_troops_line_up_on_the_beach_at_dunkirk_to_await_evacuation_26-29_may_1940.jpg"
     },
     {
-      "id": 51,
+      "id": 53,
       "paint_title": "Spitfire Mk I of 602 Squadron flown by P/O Osgood Hanbury, Westhampnett, September 1940",
       "artist": "ww2 picture",
       "year": 1940,
@@ -416,7 +432,7 @@
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/spitfire_mk.jpg"
     },
     {
-      "id": 52,
+      "id": 54,
       "paint_title": "Valentine tank in the desert, carrying an infantry section.",
       "artist": "ww2 picture",
       "year": 1941,
@@ -424,7 +440,7 @@
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/valentine_tank_Mk3_desert.jpg"
     },
     {
-      "id": 53,
+      "id":  54,
       "paint_title": "25-pounders firing in support of the Guards Armoured Division September 1944",
       "artist": "ww2 picture",
       "year": 1944,
@@ -432,7 +448,7 @@
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/25-pdrs_firing_in_support_of_Guards_Armoured_Division.jpg"
     },
     {
-      "id": 54,
+      "id": 55,
       "paint_title": "Landing on Queen Red Beach, Sword Area",
       "artist": "ww2 picture",
       "year": 1944,
