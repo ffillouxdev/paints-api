@@ -454,6 +454,88 @@
       "year": 1944,
       "theme": "ww2-history-england",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/Landing_on_Queen_Red_Beach,_Sword_Area.jpg"
+    },
+    {
+      "id": 56,
+      "paint_title": "Joan of Arc at the Siege of Orléans",
+      "artist": "inconnu",
+      "year": 1886,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/jeanne_arc_orleans.jpg"
+    },
+    {
+      "id": 57,
+      "paint_title": "Joan of Arc at the Coronation of Charles VII",
+      "artist": "inconnu",
+      "year": 1909,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/Jeanne_darc_sacrement_charles.jpg"
+    },
+    {
+      "id": 58,
+      "paint_title": "Joan of Arc at the Stake",
+      "artist": "inconnu",
+      "year": 1890,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/vertical/Jeanne_darc_death.jpg"
+    },
+    {
+      "id": 59,
+      "paint_title": "Charles Martel at the Battle of Poitiers",
+      "artist": "inconnu",
+      "year": 1837,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/bataille_de_poitiers.png"
+    },
+    {
+      "id": 60,
+      "paint_title": "Charles Martel at the Battle of Tolbiac",
+      "artist": "inconnu",
+      "year": 1837,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/bataille_de_tolbiac.jpg"
+    },
+    {
+      "id": 61,
+      "paint_title": "The Battle of Taillebourg",
+      "artist": "Eugène Delacroix",
+      "year": 1837,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/the_battle_of_taillebourg.png"
+    },
+    {
+      "id": 62,
+      "paint_title": "The Battle of Bouvines won by Philip Augustus",
+      "artist": "Eugène Delacroix",
+      "year": 1827,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/bataille_de_bouvines.jpg"
+    },
+    {
+      "id": 63,
+      "paint_title": "Joan of Arc entering Orléans",
+      "artist": "Jean-Jacques Scherrer",
+      "year": 1887,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/jeanne_darc_entry_in_orleans.png"
+    },
+    {
+      "id": 64,
+      "paint_title": "Joan of Arc having her banner blessed at Blois",
+      "artist": "Charles-Henri Michel",
+      "year": 1901,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/Jeanne_d'Arc_Blois.jpeg"
+    },
+    {
+      "id": 65,
+      "paint_title": "Coronation of Charlemagne",
+      "artist": "*Friedrich Kaulbach",
+      "year": 1861,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/horizontal/coronation_of_charlemagne.jpg"
+      
+
     }
   ]
 }
