@@ -287,17 +287,17 @@
     },
     {
       "id": 56,
-      "theme": "french-medieval-history",
+      "theme": "joan-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/jeanne_arc_orleans.jpg"
     },
     {
       "id": 57,
-      "theme": "french-medieval-history",
+      "theme": "joan-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/Jeanne_darc_sacrement_charles.jpg"
     },
     {
       "id": 58,
-      "theme": "french-medieval-history",
+      "theme": "joan-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/jeanne_darc_death_at_the_stake.jpg"
     },
     {
@@ -322,12 +322,12 @@
     },
     {
       "id": 63,
-      "theme": "french-medieval-history",
+      "theme": "joan-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/jeanne_darc_entry_in_orleans.png"
     },
     {
       "id": 64,
-      "theme": "french-medieval-history",
+      "theme": "joan-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/Jeanne_d'Arc_Blois.jpeg"
     },
     {
@@ -484,6 +484,56 @@
       "id": 95,
       "theme": "roman-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest20.jpeg"
+    },
+    {
+      "id": 96,
+      "theme": "joan-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest21.jpeg"
+    },
+    {
+      "id": 97,
+      "theme": "joan-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest22.jpeg"
+    },
+    {
+      "id": 98,
+      "theme": "joan-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest23.jpeg"
+    },
+    {
+      "id": 99,
+      "theme": "joan-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest24.jpeg"
+    },
+    {
+      "id": 100,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest25.jpeg"
+    },
+    {
+      "id": 101,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest26.jpeg"
+    },
+    {
+      "id": 102,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest27.jpeg"
+    },
+    {
+      "id": 103,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest28.jpeg"
+    },
+    {
+      "id": 104,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest29.jpeg"
+    },
+    {
+      "id": 105,
+      "theme": "french-medieval-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest30.jpeg"
     }
   ]
 }
