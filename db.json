@@ -379,6 +379,111 @@
       "id": 74,
       "theme": "greek-alexander-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/Alexander_accepts_the_surrender_of_Porus.png"
+    },
+    {
+      "id": 75,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/Akropolis_by_Leo_von_Klenze.jpg"
+    },
+    {
+      "id": 76,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest1.jpeg"
+    },
+    {
+      "id": 77,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest2.jpeg"
+    },
+    {
+      "id": 78,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest3.jpeg"
+    },
+    {
+      "id": 79,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest4.jpeg"
+    },
+    {
+      "id": 80,
+      "theme": "greek-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest5.jpeg"
+    },
+    {
+      "id": 81,
+      "theme": "egypt-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest6.jpeg"
+    },
+    {
+      "id": 82,
+      "theme": "egypt-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest7.jpeg"
+    },
+    {
+      "id": 83,
+      "theme": "egypt-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest8.jpeg"
+    },
+    {
+      "id": 84,
+      "theme": "egypt-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest9.jpeg"
+    },
+    {
+      "id": 85,
+      "theme": "greek-alexander-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest10.jpeg"
+    },
+    {
+      "id": 86,
+      "theme": "greek-alexander-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest11.jpeg"
+    },
+    {
+      "id": 87,
+      "theme": "greek-alexander-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest12.jpeg"
+    },
+    {
+      "id": 88,
+      "theme": "greek-alexander-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest13.jpeg"
+    },
+    {
+      "id": 89,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest14.jpeg"
+    },
+    {
+      "id": 90,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest15.jpeg"
+    },
+    {
+      "id": 91,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest16.jpeg"
+    },
+    {
+      "id": 92,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest17.jpeg"
+    },
+    {
+      "id": 93,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest18.jpeg"
+    },
+    {
+      "id": 94,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest19.jpeg"
+    },
+    {
+      "id": 95,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest20.jpeg"
     }
   ]
 }
