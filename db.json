@@ -569,6 +569,21 @@
       "id": 112,
       "theme": "napoleon-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest37.jpeg"
+    },
+    {
+      "id": 113,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest38.jpeg"
+    },
+    {
+      "id": 114,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest39.jpeg"
+    },
+    {
+      "id": 115,
+      "theme": "roman-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest40.jpeg"
     }
   ]
 }
