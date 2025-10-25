@@ -534,6 +534,41 @@
       "id": 105,
       "theme": "french-medieval-history",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest30.jpeg"
+    },
+    {
+      "id": 106,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest31.jpeg"
+    },
+    {
+      "id": 107,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest32.jpeg"
+    },
+    {
+      "id": 108,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest33.jpeg"
+    },
+    {
+      "id": 109,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest34.jpeg"
+    },
+    {
+      "id": 110,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest35.jpeg"
+    },
+    {
+      "id": 111,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest36.jpeg"
+    },
+    {
+      "id": 112,
+      "theme": "napoleon-history",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest37.jpeg"
     }
   ]
 }
