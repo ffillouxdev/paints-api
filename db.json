@@ -624,6 +624,51 @@
       "id": 123,
       "theme": "ww2-history-england",
       "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest48.jpeg"
+    },
+    {
+      "id": 124,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest49.jpeg"
+    },
+    {
+      "id": 125,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest50.jpeg"
+    },
+    {
+      "id": 126,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest51.jpeg"
+    },
+    {
+      "id": 127,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest52.jpeg"
+    },
+    {
+      "id": 128,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest53.jpeg"
+    },
+    {
+      "id": 129,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest54.jpeg"
+    },
+    {
+      "id": 130,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest55.jpeg"
+    },
+    {
+      "id": 131,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest56.jpeg"
+    },
+    {
+      "id": 132,
+      "theme": "ww2-history-france",
+      "url": "https://raw.githubusercontent.com/ffillouxdev/paints-api/main/assets/pinterest57.jpeg"
     }
   ]
 }
