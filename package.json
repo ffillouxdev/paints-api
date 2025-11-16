@@ -1,21 +1,12 @@
 {
   "name": "paint-api",
   "version": "1.0.0",
-  "description": "Ce projet met à disposition une API REST simulée pour accéder à des informations sur des peintures, en utilisant [my-json-server](https://my-json-server.typicode.com/).",
-  "main": "index.js",
+  "description": "API REST simulée pour des peintures avec json-server.",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "json-server --watch db.json --port $PORT"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ffillouxdev/paints-api.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/ffillouxdev/paints-api/issues"
-  },
-  "homepage": "https://github.com/ffillouxdev/paints-api#readme"
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
